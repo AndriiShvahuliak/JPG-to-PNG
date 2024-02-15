@@ -17,3 +17,4 @@ for filename in os.listdir(image_folder):
     img.save(f'{output_folder}{clean_name}.png', 'png')
     print(f'{img} has been converted to png')
 # testing
+# nyama
