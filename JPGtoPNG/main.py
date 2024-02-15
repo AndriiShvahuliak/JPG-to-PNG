@@ -16,3 +16,4 @@ for filename in os.listdir(image_folder):
     clean_name = os.path.splitext(filename[0])
     img.save(f'{output_folder}{clean_name}.png', 'png')
     print(f'{img} has been converted to png')
+# testing
