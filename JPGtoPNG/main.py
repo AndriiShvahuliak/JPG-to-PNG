@@ -19,3 +19,5 @@ for filename in os.listdir(image_folder):
 # testing
 # nyama
 # not the final test 
+# final testing(i hope)
+
